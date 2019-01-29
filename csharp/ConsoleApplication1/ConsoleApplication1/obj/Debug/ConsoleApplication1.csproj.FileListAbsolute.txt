@@ -1,0 +1,6 @@
+\\scitorque.com\dfs\users\changqiangd\Documents\work\interview\csharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\scitorque.com\dfs\users\changqiangd\Documents\work\interview\csharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\scitorque.com\dfs\users\changqiangd\Documents\work\interview\csharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\scitorque.com\dfs\users\changqiangd\Documents\work\interview\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\scitorque.com\dfs\users\changqiangd\Documents\work\interview\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\scitorque.com\dfs\users\changqiangd\Documents\work\interview\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
